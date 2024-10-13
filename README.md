@@ -14,6 +14,9 @@ This is a simple Node.js project that demonstrates how to create a basic HTTP se
 
 - Node.js installed on your machine (Download from [here](https://nodejs.org))
 
+## Screenshots
+
+If you want to view the screenshots of the web pages, please visit the **Issues** section of this GitHub repository.
 
 ### Installation
 
