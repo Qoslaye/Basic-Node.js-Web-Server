@@ -19,4 +19,4 @@ This is a simple Node.js project that demonstrates how to create a basic HTTP se
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/nodejs-http-request.git
+   git clone https://github.com/Qoslaye/nodejs-http-request.git
